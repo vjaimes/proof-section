@@ -59,7 +59,7 @@ body {
 .rating-tabs {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   width: 50%;
   height: 70%;
 }
